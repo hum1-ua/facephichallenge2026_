@@ -1,3 +1,16 @@
-python-doctr
-mplcursors
+# Core
+numpy
+scipy
+pandas
+opencv-python
 matplotlib
+scikit-learn
+Pillow
+
+# Deep learning backend
+tensorflow==2.13.0
+keras==2.13.1
+# DeepFace
+deepface
+# Optional for visualization
+mplcursors
