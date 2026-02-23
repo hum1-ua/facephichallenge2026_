@@ -6,10 +6,11 @@ opencv-python
 matplotlib
 scikit-learn
 Pillow
-
+python-doctr
 # Deep learning backend
 tensorflow==2.13.0
 keras==2.13.1
+torch
 # DeepFace
 deepface
 # Optional for visualization
