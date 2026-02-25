@@ -3,7 +3,7 @@
 Este proyecto implementa un sistema de verificación de identidad combinando OCR y reconocimiento facial usando [DeepFace](https://github.com/serengil/deepface) y [doctr](https://mindee.github.io/doctr/) para la extracción de texto de documentos. Permite validar información del DNI y verificar que la persona que aparece en el documento coincide con la persona frente a la cámara o en una imagen.
 
 
-[[!](https://github.com/user-attachments/assets/c1c06fd9-2776-4211-8cf0-a019d947f9de)
+[!](https://github.com/user-attachments/assets/c1c06fd9-2776-4211-8cf0-a019d947f9de)
 
 
 ---
