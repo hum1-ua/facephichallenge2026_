@@ -53,12 +53,12 @@ Este proyecto implementa un sistema de verificación de identidad combinando OCR
 
 ```
 Imagen DNI → OCR → Extracción de datos → Validaciones internas
-                                     ↓
-                               Embedding facial
-                                     ↓
-                         Comparación con selfie/webcam
-                                     ↓
-                          Resultado de verificación
+                             ↓
+                       Embedding facial
+                             ↓
+                 Comparación con selfie/webcam
+                             ↓
+                  Resultado de verificación
 ```
 
 ---
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 ### Validación de DNI
 
 ```python
-validar_dni("dni_anverso.jpg", "dni_reverso.jpg")
+validar_dni("dni_anverso.jpg", "dni_reverso.jpg", verificar_edad=True)
 ```
 Ejemplo de salida:
 ```bash
@@ -118,9 +118,7 @@ POSIBLE INCONSISTENCIA DE EDAD
 ```
 
 
-
-
-### 👤 Verificación One-Shot
+### Verificación One-Shot
 
 ```python
 one_shot_verification(
@@ -131,7 +129,7 @@ one_shot_verification(
 )
 ```
 <img width="515" height="427" alt="image" src="https://github.com/user-attachments/assets/ed2c2db9-77bf-424e-a4a9-6e469164599c" />
-### 🎥 Verificación en Tiempo Real
+### Verificación en Tiempo Real
 
 ```python
 real_time_verification(
@@ -201,15 +199,17 @@ q
 
 ---
 
-## 📌 Estado del Proyecto
+## Estado del Proyecto
 
 Proyecto educativo enfocado a sistemas de onboarding digital y verificación biométrica.
 
 ---
 
-## 👤 Autor
+## Autores
 
-Hugo
+Patricia Pérez Ferre
+Hugo Urbán Martínez
+
 
 ---
 
