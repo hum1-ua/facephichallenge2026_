@@ -129,6 +129,8 @@ one_shot_verification(
 )
 ```
 <img width="515" height="427" alt="image" src="https://github.com/user-attachments/assets/ed2c2db9-77bf-424e-a4a9-6e469164599c" />
+<img width="515" height="427" alt="image" src="https://github.com/user-attachments/assets/8e0b77cc-0f15-4b1e-ae26-e2c6f61216c7" />
+
 ### Verificación en Tiempo Real
 
 ```python
