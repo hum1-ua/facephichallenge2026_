@@ -17,6 +17,8 @@ Este proyecto implementa un sistema de verificación de identidad combinando OCR
 - **Anti-Spoofing:** Detección básica de intentos de suplantación de identidad.
 - **Visualización opcional:** Resultados de la verificación se muestran en gráficos y prints con información de coincidencia y distancia coseno.
 
+<img width="515" height="427" alt="image" src="https://github.com/user-attachments/assets/fc64cdcf-6a3f-4bb1-bb54-5e8e7a5e9219" />
+
 ---
 
 ## 🔹 Instalación
