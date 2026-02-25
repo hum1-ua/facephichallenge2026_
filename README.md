@@ -168,15 +168,6 @@ q
 
 
 ## Autores
-[Patricia Pérez Ferre] https://github.com/ppf30 
-[Hugo Urbán Martínez] https://github.com/hum1-ua
-
-
-
----
-
-## 📄 Licencia
-
-Uso educativo y demostrativo.
-No apto para producción sin mejoras de seguridad.t="image" src="https://github.com/user-attachments/assets/fc64cdcf-6a3f-4bb1-bb54-5e8e7a5e9219" />
+[![Patricia Pérez Ferre](https://img.shields.io/badge/GitHub-ppf30-181717?style=for-the-badge&logo=github)](https://github.com/ppf30)
+[![Hugo Urbán Martínez](https://img.shields.io/badge/GitHub-hum1--ua-181717?style=for-the-badge&logo=github)](https://github.com/hum1-ua)
 
