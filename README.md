@@ -128,7 +128,7 @@ one_shot_verification(
     detector_backend="retinaface"
 )
 ```
-<img width="515" height="427" alt="image" src="https://github.com/user-attachments/assets/ed2c2db9-77bf-424e-a4a9-6e469164599c" />
+<img width="515" height="427" alt="image" src="https://github.com/user-attachments/assets/ed2c2db9-77bf-424e-a4a9-6e469164599c" /> 
 <img width="515" height="427" alt="image" src="https://github.com/user-attachments/assets/8e0b77cc-0f15-4b1e-ae26-e2c6f61216c7" />
 
 ### Verificación en Tiempo Real
@@ -149,68 +149,28 @@ q
 
 ---
 
-## ⚙️ Parámetros Configurables
+## Parámetros Configurables
 
 | Parámetro | Descripción |
 |-----------|------------|
 | `model_name` | Modelo facial (ArcFace recomendado) |
-| `detector_backend` | Backend de detección |
+| `detector_backend` | Backend de detección (retinaface recomendado)|
 | `threshold` | Umbral de similitud |
 | `processing_frame_rate` | Frecuencia de análisis |
 
 ---
 
-## 🧠 Modelos Soportados (DeepFace)
+## Modelos de Reconocimiento Soportados
+<img width="3584" height="2008" alt="image" src="https://github.com/user-attachments/assets/67e32be5-db17-48c0-951d-ca1428f542a2" />
 
-- ArcFace (recomendado)
-- Facenet
-- Facenet512
-- VGG-Face
-- DeepID
-- Dlib
+## Modelos de detección y alineamiento
+<img width="3584" height="2006" alt="image" src="https://github.com/user-attachments/assets/9a2d1fbe-8a24-41d1-8aec-7a9224316abf" />
 
----
-
-## 🔐 Consideraciones de Seguridad
-
-- No subir imágenes reales de DNI a repos públicos.
-- Usar almacenamiento cifrado en producción.
-- Ajustar umbral según entorno real.
-- Implementar liveness detection avanzada para uso comercial.
-
----
-
-## 📚 Tecnologías Utilizadas
-
-- DeepFace
-- Doctr OCR
-- OpenCV
-- TensorFlow
-- NumPy
-- Matplotlib
-
----
-
-## 🎯 Posibles Mejoras
-
-- Liveness detection avanzada (parpadeo, movimientos)
-- API REST con FastAPI
-- Interfaz web
-- Dockerización
-- Deploy en cloud
-
----
-
-## Estado del Proyecto
-
-Proyecto educativo enfocado a sistemas de onboarding digital y verificación biométrica.
-
----
 
 ## Autores
+[Patricia Pérez Ferre] https://github.com/ppf30 
+[Hugo Urbán Martínez] https://github.com/hum1-ua
 
-Patricia Pérez Ferre
-Hugo Urbán Martínez
 
 
 ---
