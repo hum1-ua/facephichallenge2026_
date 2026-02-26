@@ -175,7 +175,7 @@ q
         <a href="https://github.com/hum1-ua">
             <img src="https://avatars.githubusercontent.com/u/198934523?v=4" width="100;" alt="hum1-ua"/>
             <br />
-            <sub><b>Adrián</b></sub>
+            <sub><b>Hugo</b></sub>
         </a>
     </td>
     <td align="center">
