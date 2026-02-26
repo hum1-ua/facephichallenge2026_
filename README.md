@@ -7,6 +7,7 @@ Este proyecto implementa un sistema de verificación de identidad combinando OCR
 
 ---
 
+
 ##  Funcionalidades
 
 ### 1. Validación de DNI (OCR)
