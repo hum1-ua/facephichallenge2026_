@@ -168,6 +168,21 @@ q
 
 
 ## Autores
-[![Patricia Pérez Ferre](https://img.shields.io/badge/GitHub-ppf30-181717?style=for-the-badge&logo=github)](https://github.com/ppf30)
-[![Hugo Urbán Martínez](https://img.shields.io/badge/GitHub-hum1--ua-181717?style=for-the-badge&logo=github)](https://github.com/hum1-ua)
-
+<!-- readme: collaborators -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/hum1-ua">
+            <img src="https://avatars.githubusercontent.com/u/198967558?v=4" width="100;" alt="alg204"/>
+            <br />
+            <sub><b>Adrián</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ppf30">
+            <img src="https://avatars.githubusercontent.com/u/198932016?v=4" width="100;" alt="ppf30"/>
+            <br />
+            <sub><b>Patricia</b></sub>
+        </a>
+      </td></tr>
+</table>
