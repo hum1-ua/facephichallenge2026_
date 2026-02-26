@@ -173,7 +173,7 @@ q
 <tr>
     <td align="center">
         <a href="https://github.com/hum1-ua">
-            <img src="https://avatars.githubusercontent.com/u/198967558?v=4" width="100;" alt="alg204"/>
+            <img src="https://avatars.githubusercontent.com/u/198934523?v=4" width="100;" alt="hum1-ua"/>
             <br />
             <sub><b>Adrián</b></sub>
         </a>
